@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Send ERC20s to Contracts
 
 Create your config file
 
