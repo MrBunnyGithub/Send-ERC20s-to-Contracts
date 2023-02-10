@@ -13,6 +13,11 @@ ALCHEMY_TESTNET_RPC_URL = // Your Alchemy Rpc Url
 Run the Command
 
 ```shell
+To Install
+npm init -y
+npm install --save-dev hardhat
+
+To RUn
  npx hardhat run scripts/deploy.js --network goerli
 ```
 # myrepo
