@@ -24,4 +24,4 @@ To Run
 npx hardhat run scripts/deploy.js --network goerli
 ```
 
-# myrepo
+# Send ERC20s to Contracts
